@@ -9,6 +9,7 @@ This project solves the problem of navigating large PDF files manually. Instead,
 💡 User Interface.
 
 Chatbot Demo Screenshot
+![Uploading image.png…]()
 
 🔧 Features
 📄 Upload multiple PDF files
