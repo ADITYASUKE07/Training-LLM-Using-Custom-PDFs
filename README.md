@@ -16,7 +16,7 @@ This project solves the problem of navigating large PDF files manually. Instead,
 > 💡 User Interface.
 
 <p align="center">
-  <img src="assets/main.png" width="600" alt="Chatbot Demo Screenshot" />
+  <img src="assets/[main.png](https://github.com/ashwagithub/Training-LLM-Using-Custom-PDFs/blob/main/assets/main.png)" width="600" alt="Chatbot Demo Screenshot" />
 </p>
 
 ---
